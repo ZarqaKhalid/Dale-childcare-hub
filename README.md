@@ -75,7 +75,7 @@ Upload the files directly to:
 ## 📁 File Structure
 
 ```
-c:\Users\RTX\Videos\sth/
+c:\Users\RTX\Videos\Dale Child Care Hub/
 ├── index.html        # Semantic HTML5 document with all sections & modals
 ├── styles.css        # Modern responsive design system with custom properties & glassmorphism
 ├── script.js         # Interactive engine (Quiz, AI Story, Parent Portal, Tuition Calculator, Modals, Toasts)
