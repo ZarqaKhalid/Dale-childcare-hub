@@ -1,0 +1,6 @@
+# Robots.txt for Dale Childcare Hub (https://dalechildcarehub.co.uk)
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://dalechildcarehub.co.uk/sitemap.xml
